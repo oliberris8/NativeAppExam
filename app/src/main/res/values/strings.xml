@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NativeAppExam</string>
+
+    <string name="textview_no_posts_to_display">No posts to display.\nPlease try again later.</string>
+    <string name="textview_no_comments_to_display">No comments to display.\nPlease try again later.</string>
+
+    <string name="snackbar_message_failed_to_retrieve_users">Failed to retrieve users</string>
+    <string name="snackbar_message_failed_to_retrieve_posts">Failed to retrieve posts</string>
+    <string name="snackbar_message_failed_to_retrieve_comments">Failed to retrieve comments</string>
+
+    <string name="notification_center_message_key">Message</string>
+    <string name="notification_center_retrieve_comments_successful">RetrieveCommentsSuccessful</string>
+    <string name="notification_center_retrieve_comments_failed">RetrieveCommentsFailed</string>
+    <string name="notification_center_retrieve_posts_successful">RetrievePostsSuccessful</string>
+    <string name="notification_center_retrieve_posts_failed">RetrievePostsFailed</string>
+    <string name="notification_center_retrieve_users_successful">RetrieveUsersSuccessful</string>
+    <string name="notification_center_retrieve_users_failed">RetrieveUsersFailed</string>
+</resources>
